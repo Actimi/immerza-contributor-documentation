@@ -1,15 +1,12 @@
-# Contributor's Guide: IMMERZA VR Application
-Welcome to the IMMERZA VR application contributor's guide! We appreciate your interest in contributing to our project. This guide is designed to assist designers and developers in understanding the project's structure, workflow, and best practices for contributing effectively.
+# Contributor's Guide
+Welcome to the IMMERZA contributor's guide. 
 
 ![Error](https://raw.githubusercontent.com/kahveciozan/ImmerzaContributorDoc/main/ImmerzaLogo.png)
 # Project Overview
-IMMERZA is a VR App for mood on demand available initially on SideQuest, with plans for launch on Applab and later on the Oculus Official Store. It's compatible with Meta Quest, Quest 2, Quest 3, and Quest Pro devices. IMMERZA offers four main categories: Focus, Calm, Awe, and Motivation, each featuring multiple unique environments to explore.
+IMMERZA is a VR App for ımmersıve experıences available initially on SideQuest, with plans for launch on Applab and later on the Oculus Official Store. It's compatible with Meta Quest, Quest 2, Quest 3, and Quest Pro devices. The main categories are: Focus, Calm, Awe, and Motivation, each featuring multiple unique environments to explore.
 
 ### [Immerza Website](https://www.immerza.com/)
 ### [Immerza Contributor Website](https://contributor.immerza.com/)
-
-# Content Creation Guidelines for IMMERZA Contributors
-IMMERZA is developed using the Unity3D Game Engine, offering an opportunity for contributors to enhance its content. Here are guidelines to ensure consistency and quality in your contributions:
 
 ## Overview of Creating a New Scene. (You can upload scene in 3 basic steps)
 **[STEP-1]: Create and develop your scene in your own project. (Use Unity Version 2022.3.XX.X)**  <br/>
@@ -20,7 +17,7 @@ Now let's move on to the detailed explanation
 ---
 ### [STEP-1]: Creating and Development in Unity Step by Step
 
-* Decide in which category you want to create a scene(Focus,Calm,Awe or Motivation). Then create the scene you imagine.
+* Decide in which category you want to create a scene(Focus,Calm,Awe or Motivation). 
 
 1. Create Unity 3D (URP) Project
 2. Setting up your Project for Mobile VR
