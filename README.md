@@ -1,5 +1,5 @@
 # Welcome to the IMMERZA contributor's guide.
-IMMERZA is a VR App for immersıve experıences available initially on SideQuest, with plans for launch on Applab and later on the Oculus Official Store. It's compatible with Meta Quest, Quest 2, Quest 3, and Quest Pro devices. The main categories are: Focus, Calm, Awe, and Motivation, each featuring multiple unique environments to explore.
+IMMERZA is platform for immersıve mood on demand experıences. It's compatible with Meta Quest, Quest 2, Quest 3, and Quest Pro devices. The main categories are: Focus, Calm, Awe, and Motivation, each featuring multiple unique environments to explore.
 
 ### [Immerza Website](https://www.immerza.com/)
 ### [Immerza Contributor Website](https://contributor.immerza.com/)
