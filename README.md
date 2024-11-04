@@ -80,6 +80,7 @@ Now let's move on to the detailed explanation
 > * Upload file in order to website.
 3. Add title and descriptionon website.
 4. Upload the scene.
+> Note: The size of a single file must not exceed 150MB. If you encounter any issues, please contact info@immerza.com
 
 Thats all.
 
